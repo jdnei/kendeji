@@ -1,5 +1,5 @@
 
-# KenDeJi 肯の机机场官方地址(2026年8月29日更新)
+# KenDeJi 肯の机机场官方地址(2026年8月30日更新)
 KenDeJi 肯の机机场官网地址</br>
 最新地址：[kendeji.io](https://kendeji.io/#/auth?invite=uulD1o99)</br>
 官方地址：[kendeji.io](https://kendeji.io/#/auth?invite=uulD1o99)</br>
