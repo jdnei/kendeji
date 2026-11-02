@@ -44,8 +44,8 @@ AI 服务支持较好：提供针对 ChatGPT 等 AI 服务的解锁节点，部�
 
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](https://github.com/jdnei/kendeji/blob/main/kendeji/9485204380cmcc.png?raw=ture)</br>
+![image](https://github.com/jdnei/kendeji/blob/main/kendeji/9485204380cmcc.png?raw=true)</br>
 #### 2.流媒体解锁报告
-![image](https://github.com/jdnei/kendeji/blob/main/kendeji/093485209385test.jpg?raw=ture)</br>  
+![image](https://github.com/jdnei/kendeji/blob/main/kendeji/093485209385test.jpg?raw=true)</br>  
 #### 3.落地入口分析
-![image](https://github.com/jdnei/kendeji/blob/main/kendeji/4095283495832ana.png?raw=ture)</br>
+![image](https://github.com/jdnei/kendeji/blob/main/kendeji/4095283495832ana.png?raw=true)</br>
