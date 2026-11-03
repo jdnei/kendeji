@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# KenDeJi 肯の机机场官方地址(2026年11月2日更新)
+# KenDeJi 肯の机机场官方地址(2026年11月3日更新)
 KenDeJi 肯の机机场官网地址</br>
 最新地址：[kendeji.io](https://to.iix.im/kdj01)</br>
 官方地址：[kendeji.io](https://to.iix.im/kdj01)</br>
