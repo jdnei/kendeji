@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی KenDeJi VPN (به‌روزرسانی 6 نوامبر 2026)
+# وب‌سایت رسمی KenDeJi VPN (به‌روزرسانی 7 نوامبر 2026)
 وب‌سایت رسمی KenDeJi VPN<br>
 آخرین آدرس: [kendeji.io](https://to.iix.im/kdj01)<br>
 آدرس رسمی: [kendeji.io](https://to.iix.im/kdj01)<br>
