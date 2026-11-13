@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# KenDeJi VPN Official Website (Updated November 12, 2026)
+# KenDeJi VPN Official Website (Updated November 13, 2026)
 
 Official KenDeJi VPN Website<br>
 Latest URL: [kendeji.io](https://to.iix.im/kdj01)<br>
